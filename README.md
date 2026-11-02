@@ -1,9 +1,11 @@
 # flexbox
 Ex02 Commercial Website
-Date:02.11.2026
-Name: Shamrin B
-AIMTo create a commercial website using CSS Flexbox.
-ALGORITHM
+# Date :02.11.2026
+# Name: Shamrin B
+# AIM
+To create a commercial website using CSS Flexbox.
+
+# ALGORITHM
 STEP 1
 Create an HTML file (index.html)
 
@@ -49,7 +51,7 @@ Deploy the website.
 STEP 15
 Upload to GitHub Pages for free hosting.
 
-PROGRAM
+# PROGRAM
 ```
 index.html
 
@@ -1611,7 +1613,7 @@ footer {
 }
 
 ```
-OUTPUT
+# OUTPUT
 ![alt text](<Screenshot 2026-11-02 160327.png>)
 ![alt text](image.png)
 ![alt text](image-1.png)
